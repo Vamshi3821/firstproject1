@@ -3,7 +3,7 @@ public class Max {
         int a = 10;
         int c = 20;
 
-        boolean b = (a / c) == 0;  // integer division, result is 0
-        System.out.println(b);      // prints true
+        boolean b = (a / c) == 0;  
+        System.out.println(b);      
     }
 }
